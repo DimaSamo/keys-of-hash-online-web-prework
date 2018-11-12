@@ -8,6 +8,7 @@ class Hash
         end
       end
     end
+      ret_array
   end
-  ret_array
+
 end
